@@ -4,3 +4,6 @@
 - egohands contains functions needed to process our dataset
 - images contains the part of the dataset we used for testing and training
 - models contains all TensorFlow models
+
+
+##Running the Model
